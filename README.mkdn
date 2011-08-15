@@ -1,10 +1,9 @@
 Kalan
 =====
-
-J Teager
-
-A ticketing system for people who hate ticketing systems
 "The Clam Represents Tickets"
+_____________________________
+A ticketing system for people who hate ticketing systems
+
 
 Philosophy
 ----------
