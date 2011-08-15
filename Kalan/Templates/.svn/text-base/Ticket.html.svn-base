@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>{{ ticket.subject }}</title>
+</head>
+<body>
+	<p>Accounts: {{ ticket.account.all }}</p>
+	{% for entry in ticket.entry_set.all %}	
+		<h4>{{entry.subject}}</h4>
+		<p>{{entry.body}}</p>
+		<hr />
+	{% endfor %}
+	{% for tag in ticket.tags.all %}
+		<a href="/Tickets/tag/{{tag.url}}">{{tag}},</a>
+	{% endfor %}<br />
+	<a href="/Tickets/">Queue</a><br />
+	<a href="/accounts/logout/">Logout</a>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>Add a reply:</title>
+</head>
+<body>
+	<h1>Add a reply:</h1>
+	
+	<form action="/Tickets/addentry/{{ id }}" method="GET">
+		<table>
+			{{ form.as_table }}
+		</table>
+		<input type="submit" value="Submit">
+	</form>
+</body>
+</html>

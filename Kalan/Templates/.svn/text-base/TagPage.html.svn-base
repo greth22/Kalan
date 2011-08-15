@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>{{tag}}</title>
+</head>
+<body>
+	<ul>
+	{% for ticket in tag.ticket_set.all %}
+		<li><a href="/Tickets/id/{{ticket.id}}">{{ticket}}</a></li>
+	{% endfor %}
+	</ul>
+</body>
+</html>

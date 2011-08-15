@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/TeeamDev/Kalan/svn/!svn/ver/4/Kalan/src/Kalan/KalanTickets
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TeeamDev/Kalan/svn/!svn/ver/7/Kalan/src/Kalan/KalanTickets/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/TeeamDev/Kalan/svn/!svn/ver/11/Kalan/src/Kalan/KalanTickets/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/TeeamDev/Kalan/svn/!svn/ver/4/Kalan/src/Kalan/KalanTickets/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TeeamDev/Kalan/svn/!svn/ver/4/Kalan/src/Kalan/KalanTickets/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/TeeamDev/Kalan/svn/!svn/ver/8/Kalan/src/Kalan/KalanTickets/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TeeamDev/Kalan/svn/!svn/ver/11/Kalan/src/Kalan/KalanTickets/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TeeamDev/Kalan/svn/!svn/ver/6/Kalan/src/Kalan/KalanTickets/forms.py
+END

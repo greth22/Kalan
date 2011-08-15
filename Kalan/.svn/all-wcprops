@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/TeeamDev/Kalan/svn/!svn/ver/4/Kalan/src/Kalan
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/TeeamDev/Kalan/svn/!svn/ver/4/Kalan/src/Kalan/manage.py
+END
+sqlite.db
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/TeeamDev/Kalan/svn/!svn/ver/11/Kalan/src/Kalan/sqlite.db
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/TeeamDev/Kalan/svn/!svn/ver/4/Kalan/src/Kalan/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/TeeamDev/Kalan/svn/!svn/ver/10/Kalan/src/Kalan/settings.py
+END
+sqlite.db.backup
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/TeeamDev/Kalan/svn/!svn/ver/6/Kalan/src/Kalan/sqlite.db.backup
+END
+sqlite.db.backup.2
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TeeamDev/Kalan/svn/!svn/ver/7/Kalan/src/Kalan/sqlite.db.backup.2
+END
+sqlite.db.backup.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TeeamDev/Kalan/svn/!svn/ver/8/Kalan/src/Kalan/sqlite.db.backup.3
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/TeeamDev/Kalan/svn/!svn/ver/11/Kalan/src/Kalan/urls.py
+END

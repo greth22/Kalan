@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Tickets</title>
+</head>
+<body>
+<ul>
+	{% for ticket in tickets %}
+	<li><a href="id/{{ ticket.id }}/">{{ ticket.subject }}</a> (<a href="addentry/{{ ticket.id }}">Add</a>)</li>
+	{% endfor %}
+</ul>
+<a href="create/">Create a new ticket</a>
+<br />
+	<a href="/accounts/logout/">Logout</a>
+</body>
+</html>
